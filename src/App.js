@@ -9,7 +9,7 @@ function App() {
 <p>A World Of Happiness</p>
 <img className= "Store-image" alt= "storeImage" src={storeImage}></img>
     </div>
-    
+
   );
 }
 
